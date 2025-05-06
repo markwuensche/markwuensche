@@ -1,8 +1,8 @@
-## Hi there 👋 My name is Mark
+## Hi there 👋 my name is Mark
 
-- 🧠 neuroscience
-- 🔭 I’m currently working on ... time and space experience & perception
-- 🌱 I’m currently learning how to ... manage and create research software
+- 🧠 Neuroscience
+- 🔭 I’m currently working on time and space experience & perception
+- 🌱 I’m currently learning how to manage and create research software
 
 ![Snake animation](https://github.com/markwuensche/markwuensche/blob/output/github-contribution-grid-snake.svg)
 
