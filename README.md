@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ... time and space experience & perception
 - 🌱 I’m currently learning how to ... manage and create research software
 
-![Snake animation](https://github.com/YOUR_USERNAME/markwuensche/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/markwuensche/markwuensche/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
