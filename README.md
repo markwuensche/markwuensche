@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 My name is Mark
+
+- 🧠 neuroscience
+- 🔭 I’m currently working on ... time and space experience & perception
+- 🌱 I’m currently learning how to ... manage and create research software
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **markwuensche/markwuensche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
